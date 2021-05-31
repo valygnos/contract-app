@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/contract-app/static/css/main.a3487775.chunk.css",
+    "main.js": "/contract-app/static/js/main.1c6a68ca.chunk.js",
+    "main.js.map": "/contract-app/static/js/main.1c6a68ca.chunk.js.map",
+    "runtime-main.js": "/contract-app/static/js/runtime-main.46dbd41b.js",
+    "runtime-main.js.map": "/contract-app/static/js/runtime-main.46dbd41b.js.map",
+    "static/js/2.2bcc8803.chunk.js": "/contract-app/static/js/2.2bcc8803.chunk.js",
+    "static/js/2.2bcc8803.chunk.js.map": "/contract-app/static/js/2.2bcc8803.chunk.js.map",
+    "index.html": "/contract-app/index.html",
+    "precache-manifest.e61b29a469e35660660628c92f9cd508.js": "/contract-app/precache-manifest.e61b29a469e35660660628c92f9cd508.js",
+    "service-worker.js": "/contract-app/service-worker.js",
+    "static/css/main.a3487775.chunk.css.map": "/contract-app/static/css/main.a3487775.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46dbd41b.js",
+    "static/js/2.2bcc8803.chunk.js",
+    "static/css/main.a3487775.chunk.css",
+    "static/js/main.1c6a68ca.chunk.js"
+  ]
+}
